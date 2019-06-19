@@ -1,0 +1,36 @@
+1) Create your SSH key
+
+2) Remote Login: Setup OpenSSH server and try to connect from Windows
+
+3) Create folder structure as following in your home folder
+
+fpt-training
+|__20190615
+
+4) Create a file HELLO.txt under fpt-training/20190615 folder with the text "HELLO LINUX"
+
+5) Open the HELLO.txt and insert following text "My name is xxx and today is 20190615"
+
+6) Copy File: transfer the hello.sh, hello.c, Hello.java to Linux machine from Windows and 
+
+7) From your Linux machine, execute the hello.sh
+
+7) In your Linux machine, use gcc to compile the hello.c and execute it
+
+8) In your Linux machine, use JDK to compile the Hello.java and execute it
+
+9) Execute top command and describe the output
+
+10) Use netstat to capture the list of open port on your Linux machine and report it
+
+11) Find this "text" in the messages.log and report the output
+
+12) Count the number of appearance of the "text" in the messages.log and report the output
+
+13) Delete this "text" in the messages.log and attach the new messages.log
+
+14) Setup NFS server
+
+15) Setup TFTP server
+
+
