@@ -1,0 +1,26 @@
+1) Write a bash script that take input from user and print out to console
+2) Write a bash script that take input from user and if it's an ODD number, print "ODD", if it's an EVEN number, print EVEN
+3) Write a bash script that receive a path as parameter, and take text input from user, then search for list of file contains the user input text inside the input path
+4) Write shell script to show various system configuration like
+  - Currently logged user and his logname
+  - Your current shell
+  - Your home directory
+  - Your operating system type
+  - Your current path setting
+  - Your current working directory
+  - Show Currently logged number of users
+  - About your os and version ,release number , kernel version
+  - Show all available shells
+  - Show mouse settings
+  - Show computer cpu information like processor type, speed etc
+  - Show memory information
+  - Show hard disk information like size of hard-disk, cache memory, model etc
+  - File system (Mounted)
+5) Write shell script to convert file names from UPPERCASE to lowercase file names or vice versa.
+6) Write script to implement getopts statement, your script should understand following command line argument called this script Q6,
+Q6 -c -d -m -e
+Where options work as
+-c clear the screen
+-d show list of files in current working directory
+-m start mc (midnight commander shell) , if installed
+-e { editor } start this { editor } if installed
