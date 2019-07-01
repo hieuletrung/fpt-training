@@ -1,0 +1,10 @@
+1) View the content of file setup ipaddress of your machine
+2) Setup your computer to use static ip address
+3) Setup your computer to use dynamic ip address
+4) Start the NFS services, get the PID of the process that use the NFS port
+5) Use traceroute to find the connection between your computer and www.google.com
+6) Start the TFTP server, create a file HELLO_SERVER.txt under TFTP folder. Use TFTP client to connect and download that file to your machine
+7) Same as #6, but put a file HELLO_CLIENT.txt to server
+8) Use tcpdump to capture packet on the outgoing port 443
+9) Use tcpdump to capture packet on the outgoing port 80
+10) Use wireshark to display the packet capture above, notice the different
